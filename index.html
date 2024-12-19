@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+         @import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300;400;700&display=swap');
+    </style>
+    <title>First Sign In/Up Page</title>
+    <link type="text/css" rel="stylesheet" href="usage.css"></link>
+</head>
+
+<!created two branches:
+- for the creation of the last-rec, to prevent problems with full-screen
+- for the use of code to decide what to do when full-screen mode is on (put big-rec and everything in the middle)
+***UPDATE TO GITHUB, AND SAY THAT IS A PROTOTYPE/DESGIGN
+-next: continue with created unfinished projects - REPASO PYTHON-JS-VUE>
+
+<body>
+    <div class="big-rec" id="big-rec"></div>
+    <h1 class="wback">Welcome Back!</h1>
+        <form>
+            <label for="username" class="usernameup">Username/Email adress</label><br>
+            <input type="email" id="username" name="username" class="username" placeholder="Enter your username:"><br>
+        
+            <label for="password" class="passwordup">Password (8 characters minimum)</label><br>
+            <input type="text" id="password" name="password" class="password" placeholder="Enter your password:" pattern=".{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"><br>
+        
+            <a href="https://google.com" target="_blank" id="forgot" name="forgot" class="forgot">You forgot your password?</a> 
+        
+            <input type="submit" value="Let's Go!" class="letsgo">
+        
+        
+            <a href="https://google.com" target="_blank"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png" id="google" name="google" class="google"><a>
+        
+            <a href="https://google.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/022/100/695/original/meta-logo-transparent-free-png.png" id="meta" name="meta" class="meta"></a> 
+        
+            <a href="https://google.com" target="_blank" id="register" name="register" class="register">You don't have an account?</a> 
+        </form>
+
+    <div class="size-img" id="size-img"></div>
+    <div class="img2" id="size-img"></div>
+    <div class="img3" id="size-img"></div>
+    <div class="img4" id="size-img"></div>
+    <div class="img5" id="size-img"></div>
+    <h2 class="midd-text" id="midd-text">Be part of our family</h2>
+
+    <div class="last-rec" id="last-rec"></div>
+    <h2 class="last-rec-text" id="last-rec-text">We are happy that you're here!</h2>
+</body>
+</html>
