@@ -1,0 +1,164 @@
+.wback{
+    position: relative;
+    top: 7.12rem;
+    left: 3.25rem;
+    right: 50.75rem;
+    bottom: 35.38rem;
+
+    width: 36rem;
+    height: 6rem;
+    flex-shrink: 0;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 3.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.usernameup{
+    position: relative;
+    top: 14.5rem;
+    left: 5.32rem;
+    right: 47.67rem;
+    bottom: 31.07rem;
+
+    width: 37.01519rem;
+    height: 2.92606rem;
+    flex-shrink: 0;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.username{
+    position: relative;
+    top: 17.04rem;
+    left: 5.25rem;
+    right: 46.95rem;
+    bottom: 26.75rem;
+    padding-left: 1.563rem;
+
+    width: 37.79856rem;
+    height: 4.70713rem;
+
+    border-radius: 1.875rem;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #FFF;
+    flex-shrink: 0;
+}
+
+.username::placeholder{
+    width: 35.70956rem;
+    height: 2.79881rem;
+    flex-shrink: 0;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.passwordup{
+    position: relative;
+    top: 25rem;
+    left: 5.35rem;
+    right: 47.73rem;
+    bottom: 20.57rem;
+
+    width: 37.01519rem;
+    height: 2.92606rem;
+    flex-shrink: 0;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.password{
+    position: relative;
+    top: 27.61rem;
+    left: 5.58rem;
+    right: 45.06rem;
+    bottom: 14.87rem;
+    padding-left: 1.563rem;
+
+    width: 37.79856rem;
+    height: 4.70713rem;
+
+    border-radius: 1.875rem;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #FFF;
+    flex-shrink: 0;
+}
+
+.password::placeholder{
+    width: 35.70956rem;
+    height: 2.79881rem;
+    flex-shrink: 0;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.forgot{
+    position: relative;
+    top: 33.08rem;
+    left: 5.25rem;
+    right: 47.73rem;
+    bottom: 12.49rem;
+
+    width: 37.01519rem;
+    height: 2.92606rem;
+    flex-shrink: 0;
+
+    color: #5C5AD1;
+    font-family: Bellota;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.letsgo{
+    position: relative;
+    top: 36.75rem;
+    left: 5.31rem;
+    right: 63.19rem;
+    bottom: 7.06rem;
+
+    width: 21.5rem;
+    height: 4.6875rem;
+
+    border-radius: 1.875rem;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #FFF;
+    flex-shrink: 0;
+}
+
+.letsgo::placeholder{
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+

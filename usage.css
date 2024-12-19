@@ -1,0 +1,311 @@
+html{
+    background-color: #FBE1E1;
+    font-family: "Bellota", sans-serif;
+}
+
+.wback{
+    position: absolute;
+    top: 5.12rem;
+    left: 4rem;
+    right: 50.75rem;
+    bottom: 35.38rem;
+
+    width: 36rem;
+    height: 6rem;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.usernameup{
+    position: absolute;
+    top: 15.5rem;
+    left: 6.6rem;
+    right: 47.67rem;
+    bottom: 31.07rem;
+
+    width: 37.01519rem;
+    height: 2.92606rem;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.username{
+    position: absolute;
+    top: 18.6rem;
+    left: 6.6rem;
+    right: 46.95rem;
+    bottom: 26.75rem;
+
+    width: 37.79856rem;
+    height: 4.70713rem;
+    padding-left: 25px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.username::placeholder{
+    width: 571.353px;
+    height: 44.781px;
+
+    color: #000;
+    font-family: 'Bellota';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.passwordup{
+    position: absolute;
+    top: 26.6rem;
+    left: 6.6rem;
+    right: 47.67rem;
+    bottom: 31.07rem;
+
+    width: 37.01519rem;
+    height: 2.92606rem;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    color: #000000;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.password{
+    position: absolute;
+    top: 29.6rem;
+    left: 6.6rem;
+    right: 46.95rem;
+    bottom: 26.75rem;
+
+    width: 37.79856rem;
+    height: 4.70713rem;
+    padding-left: 25px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.password::placeholder{
+    width: 571.353px;
+    height: 44.781px;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.forgot{
+    position: absolute;
+    top: 36rem;
+    left: 6.6rem;
+
+    font-family: 'Bellota';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    text-decoration-line: underline;
+
+    color: #5C5AD1;
+}
+
+.letsgo{
+    position: absolute;
+    top: 40rem;
+    left: 6.6rem;
+
+    width: 18.89928rem;
+    height: 4.7rem;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.google{
+    position: absolute;
+    top: 40rem;
+    left: 26.5rem;
+
+    width: 5rem;
+    height: 4.7rem;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+}
+
+.meta{
+    position: absolute;
+    top: 40rem;
+    left: 32.5rem;
+
+    width: 5rem;
+    height: 4.7rem;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.register{
+    position: absolute;
+    top: 47rem;
+    left: 6.6rem;
+
+    font-family: 'Bellota';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    text-decoration-line: underline;
+
+    color: #5C5AD1;
+}
+
+.big-rec{
+    position: absolute;
+    top: 4.5rem;
+    left: 1.5rem;
+
+
+    width: 113rem;
+    height: 48.2rem;
+    background-color: #F6C1C1;
+    border-radius: 30px;
+}
+
+.size-img{
+    position: absolute;
+    width: 400px;
+    height: 277px;
+    right: 700px;
+    top: 500px;
+
+    background: url(/humaans-sizeimg.png);
+}
+
+.img2{
+    position: absolute;
+    width: 400px;
+    height: 277px;
+    right: 200px;
+    top: 500px;
+
+    background: url(/img2.png);
+}
+
+.img3{
+    position: absolute;
+    width: 400px;
+    height: 277px;
+    right: 200px;
+    top: 100px;
+
+    background: url(/img3.png);
+}
+
+.img4{
+    position: absolute;
+    width: 400px;
+    height: 277px;
+    right: 700px;
+    top: 100px;
+
+    background: url(/img4.png);
+}
+
+.midd-text{
+    position: absolute;
+    top: 320px;
+    right: 200px;
+
+    color: #000;
+    font-family: Bellota;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    color: #000000;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.last-rec{
+    position: absolute;
+    top: 870px;
+    left: 24px;
+
+    width: 113rem;
+    height: 11.7rem;
+    background-color: #F6C1C1;
+    border-radius: 30px;
+}
+
+.last-rec-text{
+    
+}
+
+
+
+
