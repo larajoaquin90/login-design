@@ -239,7 +239,7 @@ html{
     right: 700px;
     top: 500px;
 
-    background: url(/humaans-sizeimg.png);
+    background: url(/images/humaans-sizeimg.png);
 }
 
 .img2{
@@ -249,7 +249,7 @@ html{
     right: 200px;
     top: 500px;
 
-    background: url(/img2.png);
+    background: url(/images/img2.png);
 }
 
 .img3{
@@ -259,7 +259,7 @@ html{
     right: 200px;
     top: 100px;
 
-    background: url(/img3.png);
+    background: url(/images/img3.png);
 }
 
 .img4{
@@ -269,7 +269,7 @@ html{
     right: 700px;
     top: 100px;
 
-    background: url(/img4.png);
+    background: url(/images/img4.png);
 }
 
 .midd-text{
